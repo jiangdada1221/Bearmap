@@ -4,6 +4,7 @@ application.
   I implement the back end of this application, including map dragging/zooming, map rastering, autocomplete, and finding
 shortest path between two locations by A* search algorithm.
 <br>
+
 Map rastering <br>
 The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2c/server/handler/APIRouteHandler.java">RasterAPIHandler</a>
 <br>
@@ -18,4 +19,4 @@ The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/m
 <br>
 <img src="https://media.giphy.com/media/J5YeArVoe51PTftMtE/giphy.gif" >
 <br>
-The app link is <a href="http://bearmap-jyp.herokuapp.com">
+The app link is <a href="http://bearmap-jyp.herokuapp.com"></a>
