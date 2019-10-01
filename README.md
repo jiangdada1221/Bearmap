@@ -19,4 +19,4 @@ The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/m
 <br>
 <img src="https://media.giphy.com/media/J5YeArVoe51PTftMtE/giphy.gif" >
 <br>
-The app link is <a href="http://bearmap-jyp.herokuapp.com"></a>
+The app link is <a href="http://bearmap-jyp.herokuapp.com">bearmap-jyp.herokuapp.com</a>
