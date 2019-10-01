@@ -5,5 +5,5 @@ application.
 shortest path between two locations by A* search algorithm.
 
 Map rastering 
-<a href="https://media.giphy.com/media/gdNtnEYJpli6GJ3kXM/giphy.gif">
+<a href="https://media.giphy.com/media/gdNtnEYJpli6GJ3kXM/giphy.gif"><img src="https://media.giphy.com/media/gdNtnEYJpli6GJ3kXM/giphy.gif" >
 
