@@ -5,7 +5,14 @@ application.
 shortest path between two locations by A* search algorithm.
 
 Map rastering 
-
+The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2c/server/handler/APIRouteHandler.java">RasterAPIHandler</a>
 <img src="https://media.giphy.com/media/gdNtnEYJpli6GJ3kXM/giphy.gif" >
 
-The back end is Done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2c/server/handler/APIRouteHandler.java">RasterAPIHandler</a>
+Autocomplete
+The back end is Done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2c/utils/Trie.java">Trie</a>
+<img src="https://media.giphy.com/media/mF49G0H2YzxoDUl4n6/giphy.gif" >
+
+Shortest Path
+The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/hw4/AStarSolver.java">AstarSolver</a>, <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2ab/KDTree.java">KDTree(find the nearest neighbour)</a>, and <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2ab/ArrayHeapMinPQ.java">ArrayMinHeap(A priority Queue used for A star search)</a>
+
+<img src="https://media.giphy.com/media/J5YeArVoe51PTftMtE/giphy.gif" >
