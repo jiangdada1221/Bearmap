@@ -19,7 +19,7 @@ The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/m
 
 Shortest Path <br>
 Double click on the map to select the start point and then double click on the map to select the end point. Then a blue line will appear indicating the shortest path between those two points you select.<br>
-The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/hw4/AStarSolver.java">AstarSolver (implementation of A* search algorithm</a>, <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2ab/KDTree.java">KDTree(find the nearest neighbour)</a>, and <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2ab/ArrayHeapMinPQ.java">ArrayMinHeap(A priority Queue used for A star search)</a>
+The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/hw4/AStarSolver.java">AstarSolver (implementation of A* search algorithm)</a>, <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2ab/KDTree.java">KDTree(find the nearest neighbour)</a>, and <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2ab/ArrayHeapMinPQ.java">ArrayMinHeap(A priority Queue used for A* search)</a>
 <br>
 <img src="https://media.giphy.com/media/J5YeArVoe51PTftMtE/giphy.gif" >
 <br>
