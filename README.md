@@ -4,7 +4,7 @@ application.
   I implement the back end of this application, including map dragging/zooming, map rastering, autocomplete, and finding
 shortest path between two locations by A* search algorithm.
 <br>
-__The app link is <a href="http://bearmap-jyp.herokuapp.com">http://bearmap-jyp.herokuapp.com</a>__. (Since Heroku is a free server, the app is a little slow)
+__The app link is <a href="http://bearmap-jyp.herokuapp.com">http://bearmap-jyp.herokuapp.com</a>__. (Since Heroku is a free server, the app is a little bit slow right now. You will wait for some seconds before seeing the map)
 ## How to use : 
 
 Map rastering and zooming <br>
