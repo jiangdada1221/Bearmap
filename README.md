@@ -4,6 +4,7 @@ application.
   I implement the back end of this application, including map dragging/zooming, map rastering, autocomplete, and finding
 shortest path between two locations by A* search algorithm.
 <br>
+## How to use : 
 
 Map rastering <br>
 The back end is done by <a href="https://github.com/jiangdada1221/Bearmap/blob/master/bearmaps/proj2c/server/handler/APIRouteHandler.java">RasterAPIHandler</a>
